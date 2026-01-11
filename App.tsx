@@ -10,9 +10,9 @@ import {
   Languages,
   Clock
 } from 'lucide-react';
-import { Button } from './components/Button';
-import { MapPicker } from './components/MapPicker';
-import { MediaUploader } from './components/MediaUploader';
+//import { Button } from './components/Button';
+//import { MapPicker } from './components/MapPicker';
+//import { MediaUploader } from './components/MediaUploader';
 import { EMERGENCY_TYPES_METADATA, ALGERIA_PHONE_REGEX, APP_LOGO_URL } from './constants';
 import { AppStep, EmergencyType, ReportData, Coordinates } from './types';
 import { supabase } from './supabaseClient';
